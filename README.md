@@ -1,10 +1,22 @@
-# Motion Graphics Skill
+# Claude Skills Collection
 
+A collection of specialized skills for Claude Code, providing powerful automation and creative tools for developers and content creators.
+
+## Available Skills
+
+### 🎬 Motion Graphics Skill
 Generate motion graphics and animated videos using Python, FFmpeg, and Pillow. Perfect for creating intro videos, data visualizations, animated diagrams, and text-based motion graphics.
 
-## Overview
+**Location**: `motion-graphics-skill/` (this directory)
 
-The **Motion Graphics Skill** is a specialized agent skill that enables programmatic creation of professional-quality motion graphics and animations. Whether you're building intro sequences, visualizing data trends, or creating animated diagrams, this skill provides flexible tools and proven workflows for generating video content directly from Python code.
+### 🎵 Audio Transcription Skill
+Transcribe uploaded audio files (MP3, WAV, M4A) to text using OpenAI Whisper. Generate clean text transcriptions or SRT subtitle files. Works offline after initial setup.
+
+**Location**: `audio-transcription-skill/`
+
+---
+
+> **Note**: Each skill is self-contained in its own directory. See individual skill READMEs for detailed usage instructions.
 
 ## Features
 
